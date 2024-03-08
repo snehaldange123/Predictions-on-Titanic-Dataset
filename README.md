@@ -13,11 +13,17 @@
 ## Requirements
 
 Python 3.x
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 ## Approach 
