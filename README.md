@@ -52,9 +52,12 @@ Titanic-Dataset.csv
 
 ## Usage : 
 
-clone the repository
+clone the repository.
+
 install the required dependencies mentioned in the requirements.
+
 Open the Jupyter Notebook Prediction On Titanic Data.ipynb 
+
 Follow the instructions provided in the notebook to run the code cells.
 
 ## Conclusion
