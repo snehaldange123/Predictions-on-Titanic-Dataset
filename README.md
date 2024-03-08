@@ -30,7 +30,7 @@ Scikit-learn
 
 1. Data Preprocessing : Handling missing values , Encoding categorical variables,Feature scaling or normalization
 
-2.Model Selection :
+2. Model Selection :
 -  Explanation of Logistic Regression and Decision Tree algorithms.
 - Suitability of each model for binary classification tasks like survival prediction
 
