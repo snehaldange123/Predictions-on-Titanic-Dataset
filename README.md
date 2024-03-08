@@ -1,4 +1,4 @@
-# Predictions on Titanic Data
+# TITANIC SURVIVAL PREDICTION
 
 # Prediction on Titanic Dataset by using Logistic Regression  and Decision Tree model
 
